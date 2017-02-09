@@ -7,7 +7,7 @@
                 "vendor": "TCI",
                 "sku" : "12345678",
                 "producttype": "Transmission",
-                "productimage" :"img/ferrari.jpg",
+                "productimage" :"img/ferrari.jpeg",
                 "startingat" : "$122599.99",
                 "variants": [
                     {
