@@ -8,7 +8,7 @@
                 "sku" : "22344678",
                 "producttype": "Drinks",
                 "productimage" :"img/guiness.jpg",
-                "startingat" : "$4.99",
+                "startingat" : "$3.99",
                 "variants": [
                     {
                         "text": "Pint",
@@ -17,7 +17,7 @@
                     },
                     {
                         "text": "Glass",
-                        "price": "4.99",
+                        "price": "3.99",
                         "sku": "GU-0.5"
                     }
                 ]
